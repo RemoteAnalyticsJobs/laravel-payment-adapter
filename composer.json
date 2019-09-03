@@ -1,0 +1,14 @@
+{
+    "name": "sharik709/laravel-payment-adapter",
+    "description": "It will allow change easily between multiple payment gateways",
+    "type": "libraray",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sharik shaikh",
+            "email": "shaikhsharik709@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
